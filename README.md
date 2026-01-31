@@ -2,7 +2,7 @@
 
 > A small C++ Object-Oriented Programming (OOP) project containing example implementations and exercises for OOP concepts.
 
-✅ **Status:** Active
+ **Status:** Active
 
 ---
 
