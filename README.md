@@ -1,4 +1,4 @@
-# CY_24_OOP
+# taskSimulation
 
 > A small C++ Object-Oriented Programming (OOP) project containing example implementations and exercises for OOP concepts.
 
@@ -8,11 +8,11 @@
 
 ## 🔧 Project Overview
 
-This repository contains a compact C++ project demonstrating core OOP concepts (classes, encapsulation, modular design) intended for learning and demonstration purposes.
+A compact C++ OOP demo implementing a role-based task and messaging system with policy enforcement, authentication (OTP + simple hashing), auditing, and basic anomaly detection — ideal as a learning/demo project or a starter for a production-ready system.
 
 ## 📁 Repository Structure
 
-- `CY_24_OOP/` — Source code directory containing:
+- `taskSimulation/` — Source code directory containing:
   - `main.cpp` — Entry point and example usage
   - `header.h` — Supporting declarations and interfaces
 
